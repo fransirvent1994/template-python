@@ -123,9 +123,9 @@ class HangmanGame:
         root.mainloop()
 
 
-# Create the main window
+#  Create the main window
 root = tk.Tk()
-# Create an instance of the HangmanGame class
+#  Create an instance of the HangmanGame class
 hangman_game = HangmanGame(root)
 
 root.mainloop()
