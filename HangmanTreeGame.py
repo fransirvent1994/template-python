@@ -128,5 +128,4 @@ root = tk.Tk()
 # Create an instance of the HangmanGame class
 hangman_game = HangmanGame(root)
 
-# Start the GUI main loop
 root.mainloop()
